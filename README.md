@@ -3,6 +3,8 @@
 Automated solution finder and executioner for whatever video-game.
 This is just a template for me to make solvers faster and easier.
 
+Get the game on [Steam](https://store.steampowered.com/).
+
 ## Requirements
 
 I only ran this on linux so that's what I'm gonna list:
